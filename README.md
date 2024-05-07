@@ -9,6 +9,6 @@ rye sync
 
 ## Usage
 ```bash
-rye run exp/nn_demo.py
-rye run exp/nn_cross_validation.py
+rye run python exp/nn_demo.py
+rye run python exp/nn_cross_validation.py
 ```
